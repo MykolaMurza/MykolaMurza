@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 I record training videos on [https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ](https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ)
+- 📝 I record training videos on [Mykola Murza - IT українською](https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ)
 
 - 💬 Ask me about **Java, Spring Framework, SQL, NoSQL, git**
 
-- 📫 How to reach me **https://t.me/java_classroom**
+- 📫 Reach me on [Telegram](https://t.me/java_classroom)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/murza00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murza00" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mykola murza — it українською" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mykola murza — it українською" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mykola murza — it українською" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
