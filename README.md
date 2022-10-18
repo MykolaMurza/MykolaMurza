@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a large logistics project that will help truckers deliver goods**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **Algorithms**
 
 - 📝 I record training videos on [Mykola Murza - IT українською](https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ)
 
