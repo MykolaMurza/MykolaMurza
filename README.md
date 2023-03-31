@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mykola</h1>
-<h3 align="center">A Java Developer from Ukraine</h3>
+<h1 align="center">Welcome! I'm Mykola👋</h1>
+<h3 align="center">A Java Software Engineer and YouTube Teacher from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykolamurza&label=Profile%20views&color=0e75b6&style=flat" alt="mykolamurza" /> </p>
 
-- 🔭 I’m currently working on **a large logistics project that will help truckers deliver goods**
+- 🔭 I’m currently working on **online banking application**
 
-- 🌱 I’m currently learning **AWS** and **Algorithms**
+- 🌱 I’m currently learning **AWS** and **Go**
 
 - 📝 I record training videos on [Mykola Murza - IT українською](https://www.youtube.com/channel/UCW1IBhEQlart1KAImKFMmdQ)
 
-- 💬 Ask me about **Java, Spring Framework, SQL, NoSQL, git**
+- 💬 Ask me about **Java, Spring Framework, SQL, NoSQL, git or Web Applications Architecture**
 
 - 📫 Reach me on [Telegram](https://t.me/java_classroom)
 
