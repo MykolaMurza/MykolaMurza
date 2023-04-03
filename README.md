@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 I’m currently working on an online banking application<br><br>🌱 I’m currently learning AWS and Go<br><br>📝 I record training videos on 'Mykola Murza - IT українською' YouTube channel<br><br>💬 Ask me about Java, Spring Framework, SQL, NoSQL, git, or Web Applications Architecture<br><br>📫 Reach me on Telegram: ![click](https://t.me/java_classroom)
+🔭 I’m currently working on an online banking application<br><br>🌱 I’m currently learning AWS and Go<br><br>📝 I record training videos on 'Mykola Murza - IT українською' YouTube channel<br><br>💬 Ask me about Java, Spring Framework, SQL, NoSQL, git, or Web Applications Architecture<br><br>📫 Reach me on Telegram: [click](https://t.me/java_classroom)
 
 
 ## 🌐 You can find me here:
