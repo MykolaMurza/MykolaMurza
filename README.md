@@ -20,8 +20,5 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykolamurza&label=Profile%20views&color=0e75b6&style=flat" alt="mykolamurza" /> </p>
 
-## 💰 Support me and my YouTube channel
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badgelogo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/murza) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
